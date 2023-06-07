@@ -13,7 +13,7 @@ Code is in the `code` folder and solutions are in the `solution`s subfolders, do
 
 ## Get Prepared
 - go to sdkman.io and install it  
-- install jbang and JDK 19
+- install jbang and JDK 20
 - https://www.jbang.dev/documentation/guide/latest/installation.html
 - `sdk install jbang`
 - `sdk install java 20-tem`
