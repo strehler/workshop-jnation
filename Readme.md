@@ -17,7 +17,7 @@ Code is in the `code` folder and solutions are in the `solution`s subfolders, do
 - https://www.jbang.dev/documentation/guide/latest/installation.html
 - `sdk install jbang`
 - `sdk install java 20-tem`
-- `git clone git@github.com:strehler/workshop-jfokus.git`
+- `git clone git@github.com:strehler/workshop-jnation.git`
 
 ### Optionally:
 - install VSCode
